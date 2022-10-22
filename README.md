@@ -1,1 +1,1 @@
-# population-genomics
+# population-genetics
